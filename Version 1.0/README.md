@@ -1,1 +1,1 @@
-
+This is the first version of my Sand Simulation which can run to almost 100,000 particles at a almost decent framerate. I have a lot of bugs to fix like the sand piling, optimization, placeable blocks (right-click), sand physics, and changing the window size. I plan that in the future I can build a much better one.
